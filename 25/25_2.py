@@ -1,0 +1,1 @@
+print('Hooray :D, Merry x\'mas')
